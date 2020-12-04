@@ -1,0 +1,11 @@
+repo:facebook/react 
+user: 'zpao', location: 'Seattle, WA', company: '@facebook ', contributions: 1777
+user: 'gaearon', location: 'null', company: '@facebook ', contributions: 1560
+user: 'bvaughn', location: 'Richmond, va', company: '@facebook', contributions: 1448
+user: 'sophiebits', location: 'California', company: 'Humu', contributions: 1268
+user: 'sebmarkbage', location: 'San Francisco', company: 'Facebook', contributions: 866
+user: 'acdlite', location: 'Redwood City, CA', company: '@facebook', contributions: 812
+user: 'jimfb', location: 'null', company: 'null', contributions: 456
+user: 'trueadm', location: 'London, United Kingdom', company: '@facebook ', contributions: 436
+user: 'petehunt', location: 'San Francisco, CA', company: 'Smyte', contributions: 332
+user: 'chenglou', location: 'California', company: 'Facebook', contributions: 222
